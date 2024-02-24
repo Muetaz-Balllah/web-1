@@ -1,5 +1,6 @@
 * {
     font-family: system-ui;
+    scroll-behavior: smooth;
 }
 body {
     margin: 0;
@@ -119,7 +120,7 @@ header img {
 }
 /* Ai */
 .Ai {
-    width: 950px;
+    width: 75%;
     padding-top: 100px;
     margin-left: auto;
     margin-right: auto;
@@ -198,7 +199,7 @@ header img {
 }
 /* Table */
 .Table {
-    width: 1020px;
+    width: 75%;
     padding-top: 100px;
     padding-bottom: 100px;
     margin-bottom: 100px;
@@ -225,7 +226,7 @@ header img {
         display: none;
     }
     .Table {
-        width: 400px;
+        width: 95%;
         padding-top: 50px;
         padding-bottom: 50px;
         margin-bottom: 50px;
